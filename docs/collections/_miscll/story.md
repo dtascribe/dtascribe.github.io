@@ -2,7 +2,7 @@
 title: My (digital) story
 subtitle: ... it begins in the age of floppy disks and monochrome monitors
 header_type: base
-show_breadcrumb: true
+show_breadcrumb: false
 show_sociallinks: true 
 breadcrumb_list:
   - label: Home
