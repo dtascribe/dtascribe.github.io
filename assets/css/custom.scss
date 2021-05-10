@@ -1,0 +1,60 @@
+---
+---
+@charset "utf-8";
+// Your custom css /scss here
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+
+//for images
+.imgspace {
+margin-left:15px;
+float: left;
+}
+
+a {
+  font-weight: bold;  
+}
+
+
+em {
+    font-weight: bold ;
+    font-style: normal;
+  }
+
+.backa {
+    background-color: #edebe9;
+}
+
+.backb {
+    background-color: #fdfdfd ;
+}
+
+.jumbotron pad {
+	padding: 2.5rem 2rem;
+}
+
+.jumbotron {
+    background-color: #fff8f6;
+}
+
+.hero-chulapa p
+{font-size: 1.5rem}
+
+.hero-chulapa-image p
+{font-size: 1.3rem}
+
+.fas
+ {
+ color: #92140cff    
+ }
+
+.hero-chulapa-image h1
+  {
+  font-size: 3rem;    
+  }
+ 
+
