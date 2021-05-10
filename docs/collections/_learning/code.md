@@ -1,6 +1,7 @@
 ---
 title: To code - or not
 subtitle: How important is it in the scheme of things?
+show_sociallinks: true
 ---
 ![Taking the plunge](/docs/assets/img/site/codefinalcropped.png)
 <small>Illustration: Ramachandran</small>
