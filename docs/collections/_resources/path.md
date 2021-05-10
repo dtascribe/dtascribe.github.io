@@ -1,7 +1,7 @@
 ---
 title: Career entry points and paths
 subtitle: A personal take
-show_breadcrumb: true
+show_breadcrumb: false
 show_sociallinks: true 
 breadcrumb_list:
   - label: Home
