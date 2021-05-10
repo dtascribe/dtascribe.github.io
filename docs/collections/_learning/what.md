@@ -1,7 +1,7 @@
 ---
 title: What is datajournalism?
 subtitle: Reports, surveys and studies provide insights and delineate the field
-show_breadcrumb: true
+show_breadcrumb: false
 show_sociallinks: true 
 breadcrumb_list:
   - label: Home
