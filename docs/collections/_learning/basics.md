@@ -1,7 +1,8 @@
 ---
 title: Learning the basics
 subtitle: Resources for beginners covering the basics of data journalism - spreadsheets, data cleaning and analysis and visualisation.
-show_sociallinks: false
+show_sociallinks: true
+show_breadcrumb: false 
 breadcrumb_list:
   - label: Home
     url: /
