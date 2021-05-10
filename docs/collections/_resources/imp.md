@@ -1,7 +1,7 @@
 ---
 title: The growing importance of data journalism
 header_type: base
-show_breadcrumb: true
+show_breadcrumb: false
 show_sociallinks: true 
 breadcrumb_list:
   - label: Home
