@@ -25,7 +25,7 @@ author:
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :     # New York, USA 
   links:                
-    - url:  https://twitter.com/dscribe #A link or email: https://twitter.com/jack, mail@example.com
+    - url:  https://twitter.com/data_scribe #A link or email: https://twitter.com/jack, mail@example.com
       icon: "fab fa-twitter"
     - url:  https://www.linkedin.com/in/tramachandran/ 
       icon: "fab fa-linkedin" 
@@ -123,7 +123,7 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - url   : "https://twitter.com/dscribe"
+    - url   : "https://twitter.com/data_scribe"
       icon  : "fab fa-twitter"
     - url   : "https://www.linkedin.com/in/tramachandran/"
       icon  : "fab fa-linkedin"
