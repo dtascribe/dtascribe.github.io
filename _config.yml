@@ -95,7 +95,7 @@ navbar:
       url  : learning/basics
     - title: To code or not
       url  : learning/code
-  - title  : About...	
+  - title  : About	
     child:
     - title: My (digital) story	
       url  : miscll/story
