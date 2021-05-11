@@ -51,7 +51,7 @@ search:
   lunr_maxwords         :  #default [30] lunr only - May slow down your site build
   algolia_logo          :  false #Displays algolia logo. Should be set to true if you are on a community plan, otherwise false.  
 
-google_cse_id: #Your cse id
+google_cse_id           : "742d4051c73e98017"  #Your cse id
 # This site uses jekyll-algolia plugin https://community.algolia.com/jekyll-algolia/
 # Recommended additional configuration provided, could be modified. Add your own parameters
 algolia:                                                                   
