@@ -83,24 +83,23 @@ navbar:
   - title   : Guidance	
     child:		
     - title: Importance of data journalism
-      url  : /resources/imp
+      url  : resources/imp
     - title: Entry points
-      url  : /resources/path
+      url  : resources/path
   - title  : Learning - basics		
     child:	
     - title: What is data journalism?
-      url  : /learning/what
+      url  : learning/what
     - title: Learning the basics
-      url  : /learning/basics
+      url  : learning/basics
     - title: To code or not
-      url  : /learning/code
+      url  : learning/code
   - title  : About	
-    url  :  /about/	
     child:
     - title: My (digital) story	
-      url  : /miscll/story
+      url  : miscll/story
     - title: Contact	
-      url  : /miscll/contact
+      url  : miscll/contact
 
 
 #Social links to be placed on your site footer
